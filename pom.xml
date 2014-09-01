@@ -12,8 +12,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/altfatterz/github-release-maven.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/altfatterz/github-release-maven.git</developerConnection>
+        <connection>scm:git:https://github.com/altfatterz/github-release-maven.git</connection>
+        <developerConnection>scm:git:https://github.com/altfatterz/github-release-maven.git</developerConnection>
         <url>https://github.com/altfatterz/github-release-maven.git</url>
         <tag>HEAD</tag>
     </scm>
