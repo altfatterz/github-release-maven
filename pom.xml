@@ -4,7 +4,7 @@
 
     <groupId>com.progfun</groupId>
     <artifactId>github-release-maven</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
         <connection>scm:git:https://github.com/altfatterz/github-release-maven.git</connection>
         <developerConnection>scm:git:https://github.com/altfatterz/github-release-maven.git</developerConnection>
         <url>https://github.com/altfatterz/github-release-maven.git</url>
-        <tag>github-release-maven-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
